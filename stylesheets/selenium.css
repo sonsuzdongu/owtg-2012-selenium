@@ -1,0 +1,33 @@
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+
+
+
+
+#example {
+  margin: 30px 0 0 0 ;
+  padding:8px 15px;
+  background: #FFFFDD;
+  border-radius:5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+#example input[type=text]  {
+  width: 200px;
+  border:1px solid #e5e5e5;
+}
+
+
+#example input[type=submit]  {
+  border:1px solid #e5e5e5;
+}
+
+#ideImage {
+    margin: 20px 0;
+}
